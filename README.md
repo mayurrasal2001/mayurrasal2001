@@ -8,15 +8,15 @@
 <p align="left"> <a href="https://twitter.com/_mayur_rasal_" target="blank"><img src="https://img.shields.io/twitter/follow/_mayur_rasal_?logo=twitter&style=for-the-badge" alt="_mayur_rasal_" /></a> </p>
 
 - 🔭 I’m currently working on [E-Commerce Website](https://mayurrasal.mayurrasal2001.repl.co)
-
+- 💻 Interested in Software Developer & Frontend Developer positions.
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **JavaScript, Data Structures & Algorithms,C#**
+- 💬 Ask me about **JavaScript, Data Structures & Algorithms, C#**
 
 - 📫 How to reach me **mayurrasal2001@gmail.com**
 
 - 📄 **Bachelor of Computer Engineering** at the **Amrutvahini College of Engineering, Sangamner**
-- 🗺️ Located at Junnar/Pune,Maharashtra
+- 🗺️ Located at Junnar / Pune,Maharashtra
 - ⚡ Fun fact **I am funny😅**
 - 💼 [CV/Resume](https://drive.google.com/file/d/19xYfhnqUOiExGUEf2Lv5RGX5Pu0622XO/view?usp=sharing "CV/Resume")
 

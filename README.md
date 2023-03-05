@@ -51,7 +51,6 @@
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mayurrasal2001&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=mayurrasal2001&theme=react-dark"/>
 </div>
 
 

@@ -2,9 +2,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50" width="50"></img>Hi, I'm Mayur Rasal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"
- 
-<br>
-
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurrasal2001&label=Profile%20views&color=0e75b6&style=flat" alt="mayurrasal2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/_mayur_rasal_" target="blank"><img src="https://img.shields.io/twitter/follow/_mayur_rasal_?logo=twitter&style=for-the-badge" alt="_mayur_rasal_" /></a> </p>

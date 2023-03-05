@@ -62,4 +62,57 @@
 # <br>
 
 
+---
+<div align="center">
+<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+</div>
+  
+ ### 🙎‍♂️ What I do when I do not work
+- ✨ **Interests**: Travelling, Photography & Editing, Gym
+- 🎥 **Movies**: Science fiction Movies.
+- 📺 **TV Shows**: Reality Shows
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60" width="120"> For More Information, Please Check Out or Connect Me Via
+<p align="center">
+
+  <a href="mailto:mayurrasal2001@gmail.com" >
+    <img align="center" alt="mayurrasal2001 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/mayur-rasal-190116208/" target="_blank">
+    <img align="center" alt="mayurrasal2001 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.facebook.com/mayur.rasal.334/" target="_blank">
+      <img align="center" alt="mayurrasal334 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/_mayur_rasal_/" target="_blank">
+    <img align="center" alt="_mayu_rrasal_ | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/mayurrasal2001" target="_blank">
+    <img align="center" alt="mayurrasal2001 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  
+  <a href="https://twitter.com/_mayur_rasal_" target="_blank">
+    <img align="center" alt="mayurrasal | Twitter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20211104142029" />
+  </a> &nbsp;&nbsp;
+<p> 
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 Mayur Rasal #mayurrasal2001
+</div>
+
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2300FF00&size=50&center=true&vCenter=true&height=60&width=900&lines=See+you+soon!!;Come+again+to+see+my+world!" alt="Title"></img>
+  
+</div>
+
+</p>
+
 

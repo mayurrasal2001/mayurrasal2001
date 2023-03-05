@@ -15,9 +15,11 @@
 
 - 📫 How to reach me **mayurrasal2001@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/19xYfhnqUOiExGUEf2Lv5RGX5Pu0622XO/view?usp=sharing](https://drive.google.com/file/d/19xYfhnqUOiExGUEf2Lv5RGX5Pu0622XO/view?usp=sharing)
-
+- 📄 **Bachelor of Computer Engineering** at the **Amrutvahini College of Engineering, Sangamner**
+- 🗺️ Located at Junnar/Pune,Maharashtra
 - ⚡ Fun fact **I am funny😅**
+- 💼 [CV/Resume](https://drive.google.com/file/d/19xYfhnqUOiExGUEf2Lv5RGX5Pu0622XO/view?usp=sharing "CV/Resume")
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

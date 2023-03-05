@@ -64,7 +64,7 @@
 
 ---
 <div align="center">
-<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+<img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
 </div>
   
  ### 🙎‍♂️ What I do when I do not work

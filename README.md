@@ -13,7 +13,7 @@
 - 💻 Interested in Software Developer & Frontend Developer positions.
 - 🌱 I’m currently learning **Reactjs**
 
-- 💬 Ask me about **JavaScript, Data Structures & Algorithms, C#**
+- 💬 Ask me about **JavaScript, Data Structures & Algorithms, C#, CPP, C, HTML, CSS, SQL OOP's**
 
 - 📫 How to reach me **mayurrasal2001@gmail.com**
 

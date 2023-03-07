@@ -55,16 +55,18 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mayurrasal2001&theme=algolia&background=0d1117&hide_border=true" />
 </div>
  -->
-
+ 
+ 
+<!-- 
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurrasal2001&layout=compact&show_icon=true&theme=algolia" alt="mayurrasal2001-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=mayurrasal2001&layout=compact&show_icon=true&theme=algolia" alt="mayurrasal2001-stats"/>
-</div>
+</div> -->
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=mayurrasal2001&theme=algolia&background=0d1117&hide_border=true" />
 </div>
 
-<br>
+
 
 
 

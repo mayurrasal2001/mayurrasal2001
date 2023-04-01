@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on [E-Commerce Website](https://mayurrasal.mayurrasal2001.repl.co)
-- 💻 Interested in Software Developer & Frontend Developer positions.
+- 💻 Interested in Frontend Developer & Frontend Developer positions.
 - 🌱 I’m currently learning **Reactjs**
 
 - 💬 Ask me about **ReactJs, JavaScript, Data Structures & Algorithms, C#, CPP, C, HTML, CSS, SQL, OOP's**

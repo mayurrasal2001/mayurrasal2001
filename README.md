@@ -22,19 +22,11 @@
 - 💼 [CV/Resume](https://drive.google.com/file/d/1A137GEc6if16Vl7QhA4N7IRxND6Z3Kt-/view?usp=sharing "CV/Resume")
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_mayur_rasal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mayur_rasal_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayur-rasal-190116208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayur-rasal-190116208" height="30" width="40" /></a>
-<a href="https://fb.com/mayur.rasal.334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayur.rasal.334" height="30" width="40" /></a>
-<a href="https://instagram.com/_mayur_rasal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mayur_rasal_" height="30" width="40" /></a>
-</p>
-
 <br>
   
 <img src="https://imgur.com/rilHVxA.png"/> 
 
-<center>Passionate about Software development and Frontend Development and make things happen.</center>
+<center>Passionate about Software development and make things happen.</center>
 
 <br>
 <br>

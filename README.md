@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a Software Developer at Pune.
 - 💻 Interested in Frontend Developer positions.
-- 🌱 I’m currently learning NodeJs****
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **ReactJs, TypeScript, RTK Query, JavaScript, Data Structures & Algorithms, C#, CPP, C, HTML, CSS, SQL, OOP's**
 

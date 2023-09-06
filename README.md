@@ -17,7 +17,7 @@
 - 📫 How to reach me **mayurrasal2001@gmail.com**
 
 - 👨‍💻 **Software Developer** at the **VSH Solutions, Pune**
-- 🎓 Complted Bachelor of **Computer Engineering** at the **Amrutvahini College Of Engineering, Sangamner**
+- 🎓 Completed Bachelor of **Computer Engineering** at the **Amrutvahini College Of Engineering, Sangamner**
 
 - 🗺️ Located at Junnar / Pune, Maharashtra
 - ⚡ Fun fact **I am funny😅**

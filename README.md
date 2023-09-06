@@ -55,11 +55,11 @@
 
  <br>
 
-
+<!--
 ---
 <div align="center">
 <img src="butterfly.gif" width=30%><img src="dog.gif" width=20%>
-</div>
+ </div> -->
   
  ### 🙎‍♂️ What I do when I do not work
 - ✨ **Interests**: Travelling, Photography & Editing, Gym

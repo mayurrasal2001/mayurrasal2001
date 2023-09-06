@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurrasal2001&label=Profile%20views&color=0e75b6&style=flat" alt="mayurrasal2001" /> </p>
 
 
-- 🔭 I’m currently working as a Software Developer at Pune.
+- 🔭 I’m currently working as a **Software Developer** at Pune.
 - 💻 Interested in Frontend Developer positions.
 - 🌱 I’m currently learning **NodeJS**
 

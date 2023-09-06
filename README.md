@@ -18,7 +18,7 @@
 - 📫 How to reach me **mayurrasal2001@gmail.com**
   
 - 🗺️ Located at Junnar / Pune, Maharashtra
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I'm funny😅**
 - 💼 [CV/Resume](https://drive.google.com/file/d/1A137GEc6if16Vl7QhA4N7IRxND6Z3Kt-/view?usp=sharing "CV/Resume")
 
 

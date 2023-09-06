@@ -1,4 +1,3 @@
-![logo](https://github.com/mayurrasal2001/mayurrasal2001/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner(PNG).png)
 <h1 align="center"><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="50" width="50"></img>Hi, I'm Mayur Rasal</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif"

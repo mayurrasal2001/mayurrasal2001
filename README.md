@@ -66,6 +66,7 @@
 - 🎥 **Movies**: Science fiction Movies.
 - 📺 **TV Shows**: Reality Shows
 
+<!--
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="60" width="120"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
 
@@ -93,7 +94,7 @@
   <a href="https://twitter.com/_mayur_rasal_" target="_blank">
     <img align="center" alt="mayurrasal | Twitter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20211104142029" />
   </a> &nbsp;&nbsp;
-<p> 
+ <p>  -->
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>

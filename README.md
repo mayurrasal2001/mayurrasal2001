@@ -9,7 +9,7 @@
 
 
 - 👨‍💻 I’m currently working as a **Software Developer** at the **VSH Solutions, Pune**
-- 🎓 Completed Bachelor of **Computer Engineering** at the **Amrutvahini College Of Engineering, Sangamner**
+- 🎓 Completed Bachelor of **Computer Engineering** from the **Amrutvahini College Of Engineering, Sangamner**
 
 - 💻 Interested in Frontend Developer positions.
 - 🌱 I’m currently learning **NodeJS**

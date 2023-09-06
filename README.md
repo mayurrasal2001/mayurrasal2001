@@ -12,10 +12,9 @@
 
 - 💻 Interested in Frontend Developer positions.
 - 🌱 I’m currently learning **NodeJS**
-- 🎓 Completed Bachelor of **Computer Engineering** from the **Amrutvahini College Of Engineering, Sangamner**
   
 - 💬 Ask me about **ReactJs, TypeScript, RTK Query, JavaScript, Data Structures & Algorithms, C#, CPP, C, HTML, CSS, SQL, OOP's**
-
+- 🎓 Completed Bachelor of **Computer Engineering** from the **Amrutvahini College Of Engineering, Sangamner**
 - 📫 How to reach me **mayurrasal2001@gmail.com**
   
 - 🗺️ Located at Junnar / Pune, Maharashtra
